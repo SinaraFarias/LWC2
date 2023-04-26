@@ -1,0 +1,14 @@
+export default class Atividade1 extends LightningElement {
+    pessoa = [
+        {
+        id:                     101,
+        primeironome:          "Estela" , 
+        sobrenome:              "Virada", 
+        idade:                  "2", 
+        email:                  "estrela@virada.com", 
+        classificacao:          "hot" , 
+        empresa:                "MARAVILHOSA" , 
+        receitaanual:           500000,
+    }
+        ];
+}
